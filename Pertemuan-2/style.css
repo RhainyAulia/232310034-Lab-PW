@@ -1,0 +1,31 @@
+aside h5{
+  color: darkgreen
+}
+footer{
+  background-color: gray;
+}
+div p{
+  background-color: lightcoral;
+}
+.card{
+  border: 2px dashed blue;
+  margin: 50px;
+  padding: 25px 50px 75px 100px;
+}
+.para2:hover{
+  font-size: 1.5em;
+  color:red;
+  align-items: center;
+  text-align: center;
+}
+/* p::first-line{
+  color: cyan
+} */
+
+body{
+  margin-top: 100px;
+  margin-right: 100px;
+  margin-bottom: 150px;
+  margin-left: 150px;
+
+}
