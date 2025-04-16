@@ -1,0 +1,8 @@
+Cara Membuat Project Laravel
+
+1. Buka CMD di folder C:>xampp>htdocs
+2. Ketik "composer create-project laravel/laravel nama-app" dan tekan enter
+3. Setelah loading selesai, masuk ke project yang sudah dibuat
+4. Mulai lakukan pemograman
+5. Ketik "php artisan serve" untuk mengaktifkan server
+6. Run servernya .../register
